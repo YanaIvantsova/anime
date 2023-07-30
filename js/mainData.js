@@ -1,8 +1,8 @@
 const mainData = () => {
 
     const renderAnimeList = (array, genres) => {
-        console.log(array);
-        console.log(genres);
+        // console.log(array);
+        // console.log(genres);
     }
 
     const renderTopAnime = (array) => {
